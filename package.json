@@ -1,0 +1,22 @@
+{
+  "name": "image-filter-service",
+  "version": "1.0.0",
+  "description": "Apply filters to image using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denmasoft/image-filter-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denmasoft/image-filter-service/issues"
+  },
+  "homepage": "https://github.com/denmasoft/image-filter-service#readme",
+  "dependencies": {
+    "canvas": "^2.5.0"
+  }
+}
