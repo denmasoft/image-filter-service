@@ -10,6 +10,12 @@ const rgbAdjust = require('./rgbAdjust');
 const saturation = require('./saturation');
 const moon = require('./instagram/moon');
 const aden = require('./instagram/aden');
+const technicolor = require('./technicolor');
+const polaroid = require('./polaroid');
+const kodachrome = require('./kodachrome');
+const brownie = require('./brownie');
+const blackwhite = require('./blackwhite');
+const vintage = require('./vintage');
 module.exports = { 
     grayscale, 
     sepia,
@@ -21,6 +27,12 @@ module.exports = {
     invert,
     rgbAdjust,
     saturation,
+    technicolor,
+    polaroid,
+    kodachrome,
+    brownie,
+    blackwhite,
+    vintage,
     moon,
     aden 
 };
